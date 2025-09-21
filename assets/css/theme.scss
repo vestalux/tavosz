@@ -143,12 +143,10 @@ small, .small {
     .page-header.big {
         font-size:3.5em;
     }
-    .wrap-page-header {
-        padding: 2rem 0 3rem;
-    }
-    .wrap-page-header {
-        display:none;
-    }
+.wrap-page-header {
+    padding: 2rem 0 3rem;
+    display: none;
+}
     .layout-default .wrap-page-header {
         display:block;
     }
