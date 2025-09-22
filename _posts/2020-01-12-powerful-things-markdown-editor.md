@@ -4,14 +4,19 @@ date: 2020-01-12 00:00:00 Z
 categories:
 - Jekyll
 - tutorial
-layout: post
+- test
+- valami
 author: sal
-image: assets/images/4.jpg
+image: "/uploads/307510023_218316897189377_8689974522556445108_n-7a15a3.jpg"
+Field name: 
+layout: post
 ---
 
 There are lots of powerful things you can do with the Markdown editor
 
 If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+
+![307510023_218316897189377_8689974522556445108_n.jpg](/uploads/307510023_218316897189377_8689974522556445108_n.jpg)
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
