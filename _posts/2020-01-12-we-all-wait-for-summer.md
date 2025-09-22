@@ -1,11 +1,13 @@
 ---
-layout: post
 title: We all wait for summer
+date: 2020-01-12 00:00:00 Z
 categories:
-  - Jekyll
-  - tutorial
+- Jekyll
+- tutorial
+layout: post
 image: assets/images/1.jpg
 ---
+
 This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
 ![307510023_218316897189377_8689974522556445108_n.jpg]({{site.baseurl}}/_posts/307510023_218316897189377_8689974522556445108_n.jpg)
